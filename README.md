@@ -1,0 +1,1 @@
+# Uas_Pengenalan_Pola
