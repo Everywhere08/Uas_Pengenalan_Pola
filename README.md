@@ -20,3 +20,4 @@ install all the library from requirement text using :
 
 pip install -r requirements.txt
 
+then run the ipynb file using jupyternotebook or google collab 
