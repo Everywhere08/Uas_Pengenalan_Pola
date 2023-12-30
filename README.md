@@ -21,3 +21,5 @@ install all the library from requirement text using :
 pip install -r requirements.txt
 
 then run the ipynb file using jupyternotebook or google collab 
+
+dont forget to change the directory of the dataset with your directory so the program can run smoothly
